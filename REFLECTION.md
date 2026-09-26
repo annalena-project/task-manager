@@ -24,3 +24,5 @@ I learned more about how GitHub Copilot can be used when developing a program. B
 
 ## 5. What would you do differently if you had to build this again?
 If I had to build this again, I would probably plan the different features a little more before I started. For example, when we added the option to mark a task as complete, Copilot had to change how the tasks were stored. If I had planned all the features from the beginning, I might have understood earlier what kind of structure the program needed. I would still use Copilot step by step because I think that made it much easier to understand the changes and test that everything was working.
+
+![Copilot interaction for question 4](images/5.png)
